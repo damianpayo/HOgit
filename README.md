@@ -1,4 +1,7 @@
-Cambios en este archivo.
+cambios en este archivo.
+
+Aqui segui trabajando
+
 
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
