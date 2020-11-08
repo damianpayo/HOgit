@@ -112,8 +112,8 @@ y listo! en nuestra cuenta de github ya tiene que estar subido. pueden ver el ne
 
 Luego también editamos este readme para agregar los comandos con los que hicimos el repositorio
 
-
-```
+Esto no lo entendi mucho que tengo que escribir Aqui!!!!
+``
 vi README.md
 ...
 git add README.md
